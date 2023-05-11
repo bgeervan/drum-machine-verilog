@@ -1,1 +1,1 @@
-# drum-machine-verilog
+# ECE 270 Final Project 
